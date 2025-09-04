@@ -50,9 +50,7 @@ Quiz-App/
 
 Watch the demo of the app below:
 
-<video width="600" height="600" controls>
-  <source src="quiz-app/src/assets/quiz-app-demo.mp4" type="video/mp4">
-</video>
+![demo gif](quiz-app/src/assets/quiz-app-demo.gif)
 
 ---
 
