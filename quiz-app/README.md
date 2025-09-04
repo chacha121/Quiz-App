@@ -15,6 +15,12 @@ The app allows users to answer multiple-choice questions, keeps track of their s
 
 ---
 
+### Demo Video
+
+<video width="600" controls>
+  <source src="demo.mp4.mp4" type="video/mp4">
+</video>
+
 ##  Tech Stack
 - React (Functional Components + Hooks)
 - React Router DOM
