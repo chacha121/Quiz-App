@@ -1,34 +1,83 @@
-# React Quiz App 
+# Quiz-App
 
-A simple responsive quiz application built with React, React Router, and TailwindCSS.  
-The app allows users to answer multiple-choice questions, keeps track of their score, and shows results at the end.
+A **React.js Quiz Application** that allows users to take interactive quizzes, see their scores in real-time, and enjoy a responsive user-friendly interface.  
 
 ---
+
+## Table of Contents
+
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Demo Video](#demo-video)  
+- [Screenshots](#screenshots)  
+- [Live Demo](#live-demo)  
+- [Installation](#installation)  
+- [Folder Structure](#folder-structure)  
+- [Contributing](#contributing)  
+
+---
+
+## Folder structure
+
+Quiz-App/
+├─ assets/           # Demo video and screenshots images
+├─ src/              # React source code
+├─ public/           # Public files
+├─ package.json      # Project dependencies and scripts
+└─ README.md         # Project documentation
+
 
 ## Features
-- Responsive UI (mobile & desktop friendly)
-- Loads questions from a **local JSON file**
-- One question at a time
-- User must select an answer before moving to the next
-- Final results page with correct/incorrect answers
-- Option to restart the quiz
+
+- Multiple-choice quizzes  
+- Real-time score calculation  
+- Responsive design for mobile and desktop  
+- Easy to add more questions  
+- Clean and intuitive UI  
 
 ---
 
-### Demo Video
+## Tech Stack
+
+- **Frontend:** React.js  
+- **Bundler:** Vite  
+- **Styling:** Tailwind CSS 
+- **Version Control:** Git & GitHub  
+
+---
+
+## Demo Video
+
+Watch the demo of the app below:
 
 <video width="600" controls>
-  <source src="demo.mp4.mp4" type="video/mp4">
+  <source src="assets/quiz-app-demo.mp4" type="video/mp4">
 </video>
-
-##  Tech Stack
-- React (Functional Components + Hooks)
-- React Router DOM
-- TailwindCSS
-- Local JSON as a question source
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](assets/homepage.png)
+
+### Quiz Page
+![Quiz Page](assets/quizpage.png)
+
+### Result Page
+![Result Page](assets/resultpage.png)
+
+> Replace `homepage.png`, `quizpage.png`, `resultpage.png` with actual screenshots in your `assets` folder.
+
+---
+
+## Live Demo
+
+Check out the live version hosted on **GitHub Pages**:
+
+[https://Vikashh78.github.io/Quiz-App](https://Vikashh78.github.io/Quiz-App)
+
+---
 ## Installation & Running
 
 1. Clone the repository-
