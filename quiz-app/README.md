@@ -59,15 +59,17 @@ Watch the demo of the app below:
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/homepage.png)
+![Home Page](assets/home-page.png)
 
 ### Quiz Page
-![Quiz Page](assets/quizpage.png)
+![Quiz Page](assets/quiz-page.png)
 
 ### Result Page
-![Result Page](assets/resultpage.png)
+![Result Page](assets/result-page.png)
 
-> Replace `homepage.png`, `quizpage.png`, `resultpage.png` with actual screenshots in your `assets` folder.
+### Restart Page
+![Result Page](assets/restart-page.png)
+
 
 ---
 
