@@ -59,16 +59,16 @@ Watch the demo of the app below:
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/home-page.png)
+(quiz-app/src/assets/home-page.png)
 
 ### Quiz Page
-![Quiz Page](assets/quiz-page.png)
+(quiz-app/src/assets/quiz-page.png)
 
 ### Result Page
-![Result Page](assets/result-page.png)
+(quiz-app/src/assets/result-page.png)
 
 ### Restart Page
-![Result Page](assets/restart-page.png)
+(quiz-app/src/assets/restart-page.png)
 
 
 ---
