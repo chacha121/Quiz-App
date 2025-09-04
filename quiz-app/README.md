@@ -59,7 +59,7 @@ Watch the demo of the app below:
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/home-page.png)
+![Home Page](quiz-app/src/assets/home-page.png)
 
 ### Quiz Page
 ![Quiz Page](assets/quiz-page.png)
