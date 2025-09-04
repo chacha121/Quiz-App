@@ -59,17 +59,16 @@ Watch the demo of the app below:
 ## Screenshots
 
 ### Home Page
-(quiz-app/src/assets/home-page.png)
+![Home Page](assets/home-page.png)
 
 ### Quiz Page
-(quiz-app/src/assets/quiz-page.png)
+![Quiz Page](assets/quiz-page.png)
 
 ### Result Page
-(quiz-app/src/assets/result-page.png)
+![Result Page](assets/result-page.png)
 
 ### Restart Page
-(quiz-app/src/assets/restart-page.png)
-
+![Restart Page](assets/restart-page.png)
 
 ---
 
@@ -80,6 +79,7 @@ Check out the live version hosted on **GitHub Pages**:
 [https://Vikashh78.github.io/Quiz-App](https://Vikashh78.github.io/Quiz-App)
 
 ---
+
 ## Installation & Running
 
 1. Clone the repository-
