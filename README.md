@@ -17,14 +17,16 @@ A **React.js Quiz Application** that allows users to take interactive quizzes, s
 
 ---
 
-## Folder structure
+## Folder Structure
 
+```
 Quiz-App/
-├─ assets/           # Demo video and screenshots images
-├─ src/              # React source code
-├─ public/           # Public files
-├─ package.json      # Project dependencies and scripts
-└─ README.md         # Project documentation
+├─ assets/         # Demo video and screenshots images
+├─ src/            # React source code
+├─ public/         # Public files
+├─ package.json    # Project dependencies and scripts
+└─ README.md       # Project documentation
+```
 
 
 ## Features
