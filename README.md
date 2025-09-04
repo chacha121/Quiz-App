@@ -50,8 +50,8 @@ Quiz-App/
 
 Watch the demo of the app below:
 
-<video width="600" controls>
-  <source src="assets/quiz-app-demo.mp4" type="video/mp4">
+<video width="600" height="600" controls>
+  <source src="quiz-app/src/assets/quiz-app-demo.mp4" type="video/mp4">
 </video>
 
 ---
@@ -82,16 +82,21 @@ Check out the live version hosted on **GitHub Pages**:
 
 ## Installation & Running
 
-1. Clone the repository-
+1. Clone the repository:
+   ```ps1
    git clone https://github.com/Vikashh78/quiz-app.git
    cd quiz-app
+   ```
 
-2. Install dependencies-
-    npm install
+2. Install dependencies:
+   ```ps1
+   npm install
+   ```
 
-3. Start the development server-
-    npm run dev
-
+3. Start the development server:
+   ```ps1
+   npm run dev
+   ```
 
 ## Restart Quiz
 
